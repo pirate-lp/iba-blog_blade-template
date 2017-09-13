@@ -1,0 +1,18 @@
+{
+    "name": "lil-plp/iba-blog_bladeTemplate",
+    "type": "laravel",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Lost Ideas Lab",
+            "email": "info@lostideaslab.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LILPLP\\IBAsBlog\\": "src/"
+        }
+    },
+    "require": {
+    }
+}
